@@ -2,4 +2,4 @@ The codes in the program are random files that work together to rename files in 
 
 It gets interesting to know that for each patient files, they will need to be named according to a specific taxonomy. This program iterates each patient's folder and finds the last file which it then renames according to the set taxonomy set for each folder.
 
-FileIter.java has the main method file
+FileIter.java has the main method file.
